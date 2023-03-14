@@ -1,0 +1,18 @@
+my_turtle:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_lisb216350__42057: http://lisB216350:42057/
+rosversion: '1.15.15
+
+  '
+run_id: 00a37104-c249-11ed-98a8-b3b3a173b10e
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
